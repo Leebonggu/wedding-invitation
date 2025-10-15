@@ -244,7 +244,7 @@ const GallerySection = () => {
     './images/014.webp',
     './images/010.webp',
     './images/012.webp',
-    './images/022.webp',
+    './images/024.webp',
     // './images/015.webp',
     // './images/016.webp',
     // './images/017.webp',
