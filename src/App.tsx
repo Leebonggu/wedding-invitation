@@ -684,7 +684,7 @@ const ContactSection = () => {
 
 // 마음 전하기 섹션 - 색상 테마 적용
 const AccountSection = () => {
-  const [showAccount, setShowAccount] = useState({ groom: false, bride: false });
+  const [showAccount, setShowAccount] = useState({ groom: true, bride: true });
   const [copiedAccount, setCopiedAccount] = useState('');
 
   const copyToClipboard = (text: string, accountId: string) => {
